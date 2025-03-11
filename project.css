@@ -1,0 +1,112 @@
+*{
+background: #34495E;
+}
+
+.Refr{
+  margin-left: 200px;
+  padding: 5px;
+}
+
+.Refr button{
+  color: #BDC3C7;
+  border-radius: 10px;
+}
+
+.container{
+  background: #2C3E50;
+  padding: 70px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.img container img{
+  width: 50%;
+  height: auto;
+}
+
+.Dash{
+ background: #2C3E50;
+ padding:20px 20px 20px 20px;
+ border: solid #9E9E9E;
+ border-radius: 10px;
+}
+
+.Dash-01{
+  margin-left: 100px;
+  
+}
+
+.Dash-2{
+  border: solid #9E9E9E;
+  border-radius: 10px;
+}
+
+.Dash-2 button{
+  padding: 10px;
+  margin: 10px;
+  color: #BDC3C7;
+  border: transparent;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.Dash-02{
+  margin-left: 200px;
+  background: transparent;
+  color: green;
+  border-radius: 10px;
+}
+
+.Dash-02 button{
+  padding: 5px;
+  border-radius: 10px;
+  border: transparent;
+}
+
+.p2tag{
+  margin-left: 80px;
+}
+
+span{
+color: linear-gradient ( to right, #34495E #9E9E9E) ;
+
+-webkit-background-clip: text;
+background-clip: text;
+color: transparen;
+}
+
+.End-page button{
+  font-size: 1rem;
+  padding: 5px;
+  color: #9E9E9E;
+  background: #34495E;
+  border-radius: 10px;
+}
+
+.Dash-3{
+  padding: 5px;
+  margin-left: 250px;
+  border-radius: 10px;
+}
+
+Dash-03 button{
+  border-radius: 10px;
+  
+}
+
+.container{
+  padding: 5px;
+  margin: 5px;
+}
+
+.img-container{
+  width: 120px;
+  height: 85px;
+  overflow: hidden;
+}
+
+.img-container img{
+  width: 100px;
+  height: auto;
+  display: block;
+}
